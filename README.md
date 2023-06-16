@@ -1,1 +1,4 @@
-# amfoss-tasks
+# amFoss-tasks
+
+|TASKS|TITLE|STATUS|
+|-----|-----|------|

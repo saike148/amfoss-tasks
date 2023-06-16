@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/saike/amfoss/tasks/task-05/Server/Server.csproj": {}
+    "/home/saike/amfoss/amfoss-tasks/Task-05/Server/Server.csproj": {}
   },
   "projects": {
-    "/home/saike/amfoss/tasks/task-05/Server/Server.csproj": {
+    "/home/saike/amfoss/amfoss-tasks/Task-05/Server/Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/saike/amfoss/tasks/task-05/Server/Server.csproj",
+        "projectUniqueName": "/home/saike/amfoss/amfoss-tasks/Task-05/Server/Server.csproj",
         "projectName": "Server",
-        "projectPath": "/home/saike/amfoss/tasks/task-05/Server/Server.csproj",
+        "projectPath": "/home/saike/amfoss/amfoss-tasks/Task-05/Server/Server.csproj",
         "packagesPath": "/home/saike/.nuget/packages/",
-        "outputPath": "/home/saike/amfoss/tasks/task-05/Server/obj/",
+        "outputPath": "/home/saike/amfoss/amfoss-tasks/Task-05/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/saike/.nuget/NuGet/NuGet.Config"

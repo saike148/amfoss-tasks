@@ -1,4 +1,5 @@
-git clone https://github.com/gauthamk02/TerminalHunt.git
+### Git commands used
+```git clone https://github.com/gauthamk02/TerminalHunt.git
 ls
 cd TerminalHunt/
 mkdir solution
@@ -79,3 +80,4 @@ cd ..
 ls
 gedit Secret-Scroll.pdf 
 history -w /dev/stdout
+```

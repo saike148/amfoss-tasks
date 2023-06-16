@@ -1,0 +1,1 @@
+The task required basic terminal and git commands for me to get the solution. It was fun going through all the folders and to decrypt the file in the end.

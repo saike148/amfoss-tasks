@@ -24,3 +24,5 @@ byte[] msg = Encoding.ASCII.GetBytes(data);
 4. Socket was closed with `sender.Close();`
 
 #### Working:
+![Screenshot from 2023-06-16 21-32-25](https://github.com/saike148/amfoss-tasks/assets/92584258/6f729fcc-88e4-44d7-9077-b0d7b7955806)
+![Screenshot from 2023-06-16 21-33-28](https://github.com/saike148/amfoss-tasks/assets/92584258/a4b67231-08c8-41af-908d-7a7d7a28f4f9)

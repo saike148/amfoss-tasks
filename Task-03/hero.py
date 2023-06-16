@@ -1,15 +1,13 @@
-cities = int(input())  # Read the number of cities
+cities = int(input()) 
 
 for _ in range(cities):
-    n = int(input())  # Read the number of heroes in the city
-    levels = list(map(int, input().split()))  # Read the levels of heroes
-    
-    zero_count = levels.count(0)  # Count the number of heroes with level zero
-    
+    n = int(input())  #no of heroes
+    levels = list(map(int, input().split()))  #level of heroes
+    zero_count = levels.count(0)  #0 level heroes
     if 0 in levels:
-        levels.remove(0)  # Remove one occurrence of zero from the list
-        print(n - zero_count)  # Print the minimum mana required
+        levels.remove(0)  #remove one zero
+        print(n - zero_count)  #minimum
     elif len(set(levels)) == n:
-        print(n + 1)  # All heroes have the same level, so print n + 1
+        print(n + 1)
     else:
-        print(n)  # Heroes have different levels, so print the original number of heroes
+        print(n)  #diff levels
